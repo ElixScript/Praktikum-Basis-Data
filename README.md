@@ -1,4 +1,4 @@
-# Database Practicum Assignment
+# Database Practicum Assignments
 
 This repository contains practical assignments for a Database course. The exercises cover fundamental and advanced topics in database management, including SQL queries, database design, and relational operations. These assignments are intended to help students gain hands-on experience with database concepts and SQL programming.
 
